@@ -1,0 +1,30 @@
+body {
+    background: #302872;
+    color: #aa90f9;
+    background-image: url(surja-sen-das-raj-cM94J4lOSU0-unsplashg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container{
+    max-width: 400px;
+    
+}
+input[type=text],
+input[type=text]:focus{
+    color: #fff;
+    boder:none;
+    background: rgba(8, 2, 2, 0.2);
+    max-width: 400px;
+}
+.todo_s:first-child li{
+    background:#201b54;
+    color:white;
+}
+.todo_s li{
+    background:#201b54;
+    color:white;
+}
+.delete{
+    cursor: pointer;
+}
