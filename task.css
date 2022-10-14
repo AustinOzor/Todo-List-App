@@ -13,7 +13,7 @@ body {
 input[type=text],
 input[type=text]:focus{
     color: #fff;
-    boder:none;
+    border:none;
     background: rgba(8, 2, 2, 0.2);
     max-width: 400px;
 }
@@ -27,4 +27,12 @@ input[type=text]:focus{
 }
 .delete{
     cursor: pointer;
+}
+.copyright{
+    text-align: center;
+    color: red;
+    text-transform: uppercase;
+    background-color: aqua;
+    width: 400px;
+    height: 100px;
 }
