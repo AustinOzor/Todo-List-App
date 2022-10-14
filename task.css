@@ -28,11 +28,3 @@ input[type=text]:focus{
 .delete{
     cursor: pointer;
 }
-.copyright{
-    text-align: center;
-    color: red;
-    text-transform: uppercase;
-    background-color: aqua;
-    width: 400px;
-    height: 100px;
-}
